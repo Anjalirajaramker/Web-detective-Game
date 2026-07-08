@@ -322,5 +322,3 @@ Supabase provides 500MB free database perfect for this application.
 | Duplicate participant error | This prevents replay attempts; clear `data/store.json` to reset if needed |
 | Question not appearing | Check `is_active` status in questions table; deactivated questions are hidden |
 
-## 📁 File Structure
-
