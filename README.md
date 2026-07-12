@@ -1,6 +1,6 @@
 # WebDetective - Web Inspector Challenge Game
 
-A multiplayer real-time web detective game where participants solve challenges by inspecting webpage source code, finding hidden elements, and answering web development trivia. Built for Round-1 of our our event for QUEST-2026 which can  supported  uptp 100+ concurrent participations.
+A multiplayer real-time web detective game where participants solve challenges by inspecting webpage source code, finding hidden elements, and answering web development trivia. Built for Round-1 of our our event for QUEST-2026 which can  supported  upto 100+ concurrent participations.
 
 ## 🎮 Features
 
